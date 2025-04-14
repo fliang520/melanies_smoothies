@@ -3,4 +3,3 @@ snowflake-snowpark-python
 streamlit
 requests
 pandas
-sklearn.linear_model
